@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/i_circle"
+        android:checked="true"
+        android:icon="@mipmap/circle"
+        android:title="圈子" />
+
+    <item
+        android:id="@+id/i_discover"
+        android:icon="@mipmap/search"
+        android:title="发现" />
+    <item
+        android:id="@+id/i_homepage"
+        android:icon="@mipmap/homepage"
+        android:title="首页" />
+    <item
+        android:id="@+id/i_card"
+        android:icon="@mipmap/plane"
+        android:title="打卡" />
+    <item
+        android:id="@+id/i_mine"
+        android:icon="@mipmap/mine"
+        android:title="我的" />
+</menu>
